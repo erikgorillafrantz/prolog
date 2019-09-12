@@ -1,0 +1,49 @@
+
+body{
+    margin: 0 auto;
+}
+.navbar{
+    background-color: black;
+    height: 250px;
+    font-family: 'Playfair Display', serif;
+    width:100%;
+}
+.logo{
+    height:100px;
+    width: 100px;
+    margin: 20px;
+}
+li{
+    color: white;
+    list-style-type: none;
+    font-size: 24px;
+    padding: 50px;
+}
+.creative{
+    height: 500px;
+    width: 600px;
+    float:right;
+    margin: 20px;
+}
+​a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: black;
+}
+h2{
+    font-family: 'Muli', sans-serif; 
+}
+.element{
+    float: left;
+    padding-left: 15%;
+}
+footer{
+    background-color: black;
+    height:250px;
+    width:100%;
+    margin-top:1650px;
+}
+.social{
+    color: #FFCE08;
+}
