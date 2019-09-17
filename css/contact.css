@@ -4,3 +4,6 @@ footer{
 .center{
     float: left;
 }
+.map{
+    margin: 10px;
+}
